@@ -1,1 +1,1 @@
-To appear: a fast non-parametric algorithm for offline univariate changepoint detection.
+To appear: a fast non-parametric algorithm for offline univariate changepoint detection. Build-up to consist of 1) Binary Segmentation and 2) an O(n log n) subroutine for computing the two-sample Cramer-von-Mises statistic at all points in a sample of data.
